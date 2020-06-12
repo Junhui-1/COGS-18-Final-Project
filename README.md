@@ -5,9 +5,10 @@ My project is a chatbot called Alva. Users can play the number guessing game or 
 
 For the chatbot:
 
-The frame of the chatbot is mainly got from A3.
-The user can type 'guess' to play the number guessing game.
-To quit the chatbot, type 'quit'.
+- The frame of the chatbot is mainly got from A3.
+- The user can type 'guess' to play the number guessing game.
+- To quit the chatbot, type 'quit'.
+
 
 During the guessing game:
 
