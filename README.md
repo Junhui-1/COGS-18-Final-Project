@@ -21,4 +21,4 @@ During the guessing game:
 - If the user mistakenly types a string that cannot be transformed to an integer, the game will warn the user to input a valid integer.
 - The user can view his/her numbers of attempts.
 
-In general, Alva and his number guessing game is user friendly, and I hope the user can enjoy the guessing game!
+In general, Alva and her number guessing game is user friendly, and I hope the user can enjoy the enjoy the chat with her!
